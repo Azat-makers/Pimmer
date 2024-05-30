@@ -1,5 +1,4 @@
 <yml_catalog date="2024-05-30 01:01">
- <shop>
   <name>MyName</name>
   <company>MyCompany</company>
   <currencies>
@@ -10,7 +9,6 @@
    <category id="6737dca0-4245-4f1b-9a9c-57c90c00ed10">Блендеры</category>
   </categories>
   <category id="8d37e879-be52-41bc-93ca-b1c688bc9657">Тостеры</category>
-  </categories>
 <offers>
 	<offer id="32001">
 		<name>ARZUM PROCHOPP CAM HAZNELİ DOĞRAYICI</name>
@@ -31,7 +29,7 @@
 		<param name="Тип управления">Электронное</param>
 	</offer>
 	<offer id="32002">
-		<name>ARZUM SHAKE'N TAKE PERSONAL BLENDER</model</name>
+		<name>ARZUM SHAKE'N TAKE PERSONAL BLENDER</name>
 		<picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/full_a3a1cd5c836889e100bea7fd4f88e82e.jpg</picture>
 		<picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/7c9d6c98668350ab714a25721dfe7b58.jpg</picture>
 		<price>20000</price>
@@ -49,7 +47,7 @@
 		<param name="Тип управления">Электронное</param>
 	</offer>
 	<offer id="32003">
-		<name="ARZUM SHAKE'N TAKE PERSONAL BLENDER 3PIN UK">Товар 3</name>
+		<name>ARZUM SHAKE'N TAKE PERSONAL BLENDER 3PIN UK</name>
 		<picture>https://m.media-amazon.com/images/I/61TwBY-nVYL._AC_SY879_.jpg https://m.media-amazon.com/images/I/61v9hHs2aZL._AC_SY879_.jpg</picture>
 		<price>33000</price>
 		<currencyId>KGS</currencyId>
@@ -66,5 +64,4 @@
 		<param name="Тип управления">Электронное</param>
 	</offer>
 </offers>
-</shop>
 </yml_catalog>
