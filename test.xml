@@ -12,16 +12,15 @@
   <category id="8d37e879-be52-41bc-93ca-b1c688bc9657">Тостеры</category>
   </categories>
 <offers>
-	<offer id="offer_1">
-		<param name="Наименование">Товар 1</param>
-		<model>ARZUM PROCHOPP CAM HAZNELİ DOĞRAYICI</model>
+	<offer id="32001">
+		<name>ARZUM PROCHOPP CAM HAZNELİ DOĞRAYICI</name>
 		<picture>https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6997789932.jpg</picture>
 		<picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/6997789682.jpg</picture>
 		<price>13000</price>
 		<currencyId>KGS</currencyId>
+		<categoryid>67548287-c7c5-48fe-95fb-1aa08952518c</categoryid>
 		<param name="Сортировка">3</param>
 		<param name="Единица продажи" unit="шт">шт.</param>
-		<param name="categoryid">67548287-c7c5-48fe-95fb-1aa08952518c</param>
 		<param name="Мощность">400 Вт</param>
 		<param name="Цвет">Белый</param>
 		<param name="Материал">Пластик, Стекло</param>
@@ -31,16 +30,15 @@
 		<param name="Вместимость">1.5 л</param>
 		<param name="Тип управления">Электронное</param>
 	</offer>
-	<offer id="offer_2">
-		<param name="Наименование">Товар 2</param>
-		<model>ARZUM SHAKE'N TAKE PERSONAL BLENDER</model>
+	<offer id="32002">
+		<name>ARZUM SHAKE'N TAKE PERSONAL BLENDER</model</name>
 		<picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/full_a3a1cd5c836889e100bea7fd4f88e82e.jpg</picture>
 		<picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/7c9d6c98668350ab714a25721dfe7b58.jpg</picture>
 		<price>20000</price>
 		<currencyId>KGS</currencyId>
+		<categoryid>6737dca0-4245-4f1b-9a9c-57c90c00ed10</categoryid>
 		<param name="Сортировка">2</param>
 		<param name="Единица продажи" unit="шт">шт.</param>
-		<param name="categoryid">6737dca0-4245-4f1b-9a9c-57c90c00ed10</param>
 		<param name="Мощность">300 Вт</param>
 		<param name="Цвет">Белый</param>
 		<param name="Материал">Пластик</param>
@@ -50,15 +48,14 @@
 		<param name="Вместимость">0.6 л</param>
 		<param name="Тип управления">Электронное</param>
 	</offer>
-	<offer id="offer_3">
-		<param name="Наименование">Товар 3</param>
-		<model>ARZUM SHAKE'N TAKE PERSONAL BLENDER 3PIN UK</model>
+	<offer id="32003">
+		<name="ARZUM SHAKE'N TAKE PERSONAL BLENDER 3PIN UK">Товар 3</name>
 		<picture>https://m.media-amazon.com/images/I/61TwBY-nVYL._AC_SY879_.jpg https://m.media-amazon.com/images/I/61v9hHs2aZL._AC_SY879_.jpg</picture>
 		<price>33000</price>
 		<currencyId>KGS</currencyId>
+		<categoryid>8d37e879-be52-41bc-93ca-b1c688bc9657</categoryid>
 		<param name="Сортировка">6</param>
 		<param name="Единица продажи" unit="шт">шт.</param>
-		<param name="categoryid">8d37e879-be52-41bc-93ca-b1c688bc9657</param>
 		<param name="Мощность">300 Вт</param>
 		<param name="Цвет">Белый</param>
 		<param name="Материал">Пластик</param>
