@@ -6,11 +6,6 @@
     <currencies>
       <currency id="KGS" rate="1"/>
     </currencies>
-    <categories>
-      <category id="67548287-c7c5-48fe-95fb-1aa08952518c">Очистители воздуха</category>
-      <category id="6637b310-598a-4847-aab7-6d5047fcc7b6">Увлажнители воздуха</category>
-      <category id="ead3f675-a7bf-40ba-aa31-d37699f6ee2a">Обогреватели</category>
-    </categories>
     <offers>
       <offer id="30001" available="true">
         <url>http://www.example.com/product/30001</url>
