@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>MyName</name>
+    <company>MyCompany</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="67548287-c7c5-48fe-95fb-1aa08952518c">Категория 67548287-c7c5-48fe-95fb-1aa08952518c</category>
+      <category id="6637b310-598a-4847-aab7-6d5047fcc7b6">Категория 6637b310-598a-4847-aab7-6d5047fcc7b6</category>
+      <category id="ead3f675-a7bf-40ba-aa31-d37699f6ee2a">Категория ead3f675-a7bf-40ba-aa31-d37699f6ee2a</category>
+    </categories>
+    <offers>
+      <offer id="30001" available="true">
+        <url>http://www.example.com/product/30001</url>
+        <price>13000</price>
+        <currencyId>KGS</currencyId>
+        <categoryId>67548287-c7c5-48fe-95fb-1aa08952518c</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-1-o/wc1000/6997789932.jpg</picture>
+        <picture>https://ir.ozone.ru/s3/multimedia-1-q/wc1000/6997789682.jpg</picture>
+        <param name="Мощность">400 Вт</param>
+        <param name="Цвет">Белый</param>
+        <param name="Материал">Пластик, Стекло</param>
+        <param name="Вес">1 кг</param>
+        <param name="Размеры (Ш x В x Г)">15 x 20 x 15 см</param>
+        <param name="Количество скоростей">1</param>
+        <param name="Вместимость">1.5 л</param>
+        <param name="Тип управления">Электронное</param>
+      </offer>
+      <offer id="30002" available="true">
+        <url>http://www.example.com/product/30002</url>
+        <price>20000</price>
+        <currencyId>KGS</currencyId>
+        <categoryId>6637b310-598a-4847-aab7-6d5047fcc7b6</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/full_a3a1cd5c836889e100bea7fd4f88e82e.jpg</picture>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/7c9d6c98668350ab714a25721dfe7b58.jpg</picture>
+        <param name="Мощность">300 Вт</param>
+        <param name="Цвет">Белый</param>
+        <param name="Материал">Пластик</param>
+        <param name="Вес">0.8 кг</param>
+        <param name="Размеры (Ш x В x Г)">10 x 30 x 10 см</param>
+        <param name="Количество скоростей">1</param>
+        <param name="Вместимость">0.6 л</param>
+        <param name="Тип управления">Электронное</param>
+      </offer>
+      <offer id="30003" available="true">
+        <url>http://www.example.com/product/30003</url>
+        <price>33000</price>
+        <currencyId>KGS</currencyId>
+        <categoryId>ead3f675-a7bf-40ba-aa31-d37699f6ee2a</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61TwBY-nVYL._AC_SY879_.jpg https://m.media-amazon.com/images/I/61v9hHs2aZL._AC_SY879_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность">300 Вт</param>
+        <param name="Цвет">Белый</param>
+        <param name="Материал">Пластик</param>
+        <param name="Вес">0.8 кг</param>
+        <param name="Размеры (Ш x В x Г)">10 x 30 x 10 см</param>
+        <param name="Количество скоростей">1</param>
+        <param name="Вместимость">0.6 л</param>
+        <param name="Тип управления">Электронное</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
