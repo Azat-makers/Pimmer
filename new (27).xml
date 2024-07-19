@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="2a001917-12aa-45e8-a1e9-5cd93ce649b7">Холодильники-морозильники</category>
+    </categories>
+    <offers>
+      <offer id="7001" available="true">
+        <url>http://www.example.com/product/7001</url>
+        <price>35420</price>
+        <model>M 6049</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/3RadF4Nf9WTpvPxIODXm5oXOSmS5DSWlwOFsIyCq.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/j3eEoSpwM5PBHlX6i4ohhARm302aaMsHmRnqpYEW.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">380</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">41</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7002" available="true">
+        <url>http://www.example.com/product/7002</url>
+        <price>28930</price>
+        <model>6039</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/tZfYLka9Fg5NNdjBN3aPU2NdEwTUNXNoCAKJ0JNi.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/6NKdSAQnK2Q5QM6Y4nmMgcAs1QrtnzgssT18syP0.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">380</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">41</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7003" available="true">
+        <url>http://www.example.com/product/7003</url>
+        <price>26070</price>
+        <model>151</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/ClT7dDSGQv6XStaV10o8oJwJzEZzhAWhKJY48nz1.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/9CwbfDMoOclEHJGJ06PWsUnpYkHBMqxAkYsu9z6z.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">240</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7004" available="true">
+        <url>http://www.example.com/product/7004</url>
+        <price>33000</price>
+        <model>6031</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/opti/resizetmp/750_750_3/18b43097d9afe74809632b9de63126df/a7Yrn8olbInbEUPQSJfWEVrRG6e7fUAUsTjPFxcR.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/JtpZiH3rpSsEUjbm0atS3ZbPZFP4rk6zmL0Hmqxe.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">345</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7005" available="true">
+        <url>http://www.example.com/product/7005</url>
+        <price>27610</price>
+        <model>6034</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/PvMGaRJ5f9xcGcOLIPKndEZopzeJKZjajcFfWsUj.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/Sb7y9PCQjYHEmQlen5XxqvG3H1iztJBkmAzP7z5K.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">350</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7006" available="true">
+        <url>http://www.example.com/product/7006</url>
+        <price>26730</price>
+        <model>6041</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/bRS54xFH7clXJjGRWy12QZUtUmyYhKhJO4ocD2D3.jpg</picture>
+        <picture>https://biryusa.ru/up/opti/resizetmp/750_750_3/18b43097d9afe74809632b9de63126df/NwdJEKGny3WYJdZ0VUwrprLfj7LQF5QUEZ0R7gJ3.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">355</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7007" available="true">
+        <url>http://www.example.com/product/7007</url>
+        <price>33660</price>
+        <model>6049</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/opti/resizetmp/750_750_3/18b43097d9afe74809632b9de63126df/sOi6tWDnGxM8LQDwaEz1WZ36RtHWYqdayM8CJzwo.jpg</picture>
+        <picture>https://biryusa.ru/up/opti/resizetmp/750_750_3/18b43097d9afe74809632b9de63126df/TU5uVFXL3MoVQuG6HGLoqJMml8mAp3RhYlzkcJKi.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">380</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">41</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7008" available="true">
+        <url>http://www.example.com/product/7008</url>
+        <price>29150</price>
+        <model>6033</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/EWfr2O6HNy0pDi5jYVHrelBG9Biz0ddzD4AOE3qR.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/3tZrqTVfV84ditg7paiP0yzh5Fft8stxrCME5Gv1.jpgg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">360</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">41</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7009" available="true">
+        <url>http://www.example.com/product/7009</url>
+        <price>32230</price>
+        <model>6027</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/4LwxNWDY7QKm7U4aNdZySboeZR7H4uMv1NSHfYUA.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/Wi5hgSlXla3Tu8fKvfy4HlEQuv9QvVbRThzr5VYT.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">370</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7010" available="true">
+        <url>http://www.example.com/product/7010</url>
+        <price>34210</price>
+        <model>M 6049</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/TU5uVFXL3MoVQuG6HGLoqJMml8mAp3RhYlzkcJKi.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/sOi6tWDnGxM8LQDwaEz1WZ36RtHWYqdayM8CJzwo.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">380</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">41</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7011" available="true">
+        <url>http://www.example.com/product/7011</url>
+        <price>28710</price>
+        <model>W 6034</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/5jxmjpXJDQFFNiQRxQ8GHFdpMg2jTGZcCneSUmhi.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/BinTgcihhVW5DorkeqPSz3ONa1M87C76VAamdkou.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">355</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7012" available="true">
+        <url>http://www.example.com/product/7012</url>
+        <price>30360</price>
+        <model>M 6033</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/waOF1gnXlbD2e1lsBpEZhifxN4aeq43dQW1OqbXR.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/WEtcX5JSSZVnx3ndLyan0uZXbW1deQhPcaWsagsz.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">365</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">41</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7013" available="true">
+        <url>http://www.example.com/product/7013</url>
+        <price>28600</price>
+        <model>W 6034</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/xL3mkBtMlRUQG6ARZ8WqqOwcy5Sce5loUDPqXc4d.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/KZ909poQmMaIqrlBR4fvAuy1Ntq19fUeeODr9Ffx.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">370</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7014" available="true">
+        <url>http://www.example.com/product/7014</url>
+        <price>33000</price>
+        <model>M 6027</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/ET3XHWkFLgSgEw491pd2lT6BS0YNGyeNdgLIkflP.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/Mp87xuvpP2Hha3UzXr3R1fGnQhW8ly1t4x68wJBo.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">360</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">39</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+      <offer id="7015" available="true">
+        <url>http://www.example.com/product/7015</url>
+        <price>33000</price>
+        <model>W 6027</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://biryusa.ru/up/import/images/LbRuy0U6WcTX1awC9YQAehjDAGgFCD3MuJOal8bl.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/mC8xQzsGdKa4umLuXRWHzP5i0Myw1YV5l28tp2Li.jpg</picture>
+        <param name="Тип">Двухкамерный</param>
+        <param name="Объем (л)">360</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество полок/ящиков">4 полки/2 ящика</param>
+        <param name="Уровень шума (дБ)">39</param>
+        <param name="Дополнительные функции">LED освещение, режим быстрой заморозки</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
